@@ -7,6 +7,8 @@ We design and build **intelligent, production-ready systems** that bridge the ga
 
 ---
 
+![47C435FA-4444-42AE-A14B-7120EDA3E18A_1_105_c](https://github.com/user-attachments/assets/9b852c58-61d2-49d1-9a59-b1507f3fc092)
+
 ## 🚀 What We Do
 
 At Nescka, we craft end-to-end solutions that combine **AI, automation, and modern software architecture**.  
